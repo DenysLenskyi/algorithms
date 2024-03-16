@@ -54,7 +54,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.bookmap.hr.devtest.lenskyi.Main</mainClass>
+              <mainClass>com.foxminded.lenskyi.algorithms.sorting.quicksort.Main</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
